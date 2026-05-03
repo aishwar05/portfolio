@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technicals on Random_Builds</title>
+    <link>/technical/</link>
+    <description>Recent content in Technicals on Random_Builds</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>aishwar.r.mishra@gamil.com (Aishwar Mishra)</managingEditor>
+    <webMaster>aishwar.r.mishra@gamil.com (Aishwar Mishra)</webMaster>
+    <copyright>© 2026 Aishwar Mishra</copyright>
+    <atom:link href="/technical/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
